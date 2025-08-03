@@ -41,11 +41,6 @@ A card game of luck, pairing, and drifting Jokers.
 - Keep track of your **best score** (least drift + max deck cards) and see how high you can climb!
 
 ---
-
-### Play the game online!
-- Play the single player version of **Joker Drift** [here](https://supergamer474.github.io/Joker-Drift/)!
-
----
 ## 🃏 Pro Tip
 - **Hope for reds** but plan for blacks! 🔴⚫  
 
